@@ -39,5 +39,16 @@ div#header h2 {
   font-size: 1.2em;
   margin-top: 0px;
   }
+  
+div#content h2 {
+  border-bottom: 1px;
+  border-color: #999999
+  }
+  
+.rank {
+  background-color: black;
+  color: white;
+  }
+  
 
 </style>
