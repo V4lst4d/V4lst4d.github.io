@@ -15,7 +15,7 @@ p {
   text-indent: 2em;
  }
  
-a: -webkit-any-link {
+a {
 color: blue;
 text-decoration: none;
 cursor: 
