@@ -3,9 +3,12 @@
 
 body {
   padding: 0px;
+  font-family: Verdana, sans-serif;
+  }
+ 
+p {
   text-size: 10px;
   text-align: left;
-  font-family: Verdana, sans-serif;
   }
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
