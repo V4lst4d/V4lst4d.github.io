@@ -21,7 +21,7 @@ div#header {
   background-color: royalblue;
   color: white;
   padding: 0px;
-  text-shadow: #333;
+  text-shadow: #333 0px 0px 10px;
   border-style: outset;
   border-color: lightblue;
   border-width: 5px;
