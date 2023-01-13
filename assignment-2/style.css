@@ -45,7 +45,7 @@ div#content h2 {
   border-color: #999999
   }
   
-.rank {
+span.rank {
   background-color: black;
   color: white;
   }
