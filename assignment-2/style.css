@@ -13,7 +13,7 @@ html, body {
 p {
   text-align: justified;
   text-indent: 2em;
-  color: #999999
+  color: #999999;
  }
 
 p::first-line {
@@ -56,7 +56,7 @@ div#header h2 {
   
 div#content h2 {
   border-bottom: 1px;
-  border-color: #999999
+  border-color: #999999;
   border-style: solid;
   border-top: 0px;
   border-right: 0px;
