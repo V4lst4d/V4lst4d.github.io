@@ -3,7 +3,7 @@
 
 body {
   font-family: Verdana, sans-serif;
-  margin: 0px;
+  margin-
   padding: 0px;
   }
  
@@ -17,7 +17,7 @@ h2, h3 {
   font-family: "Open Sans", sans-serif;
   }
 
-#header {
+#header > div {
   background-color: royalblue;
   color: white;
   padding: 0px;
@@ -25,10 +25,11 @@ h2, h3 {
   border-style: outset;
   border-color: lightblue;
   border-width: 5px;
+  margin-bottom: 0 px;
   }
 
 #header h1 {
-  margin-bottom: 0px;
+  margin-block-end: 0px;
   }
 
 #header h2 {
