@@ -3,6 +3,7 @@
 
 html, body {
   font-family: Verdana, sans-serif;
+  position: absolute;
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 0px;
@@ -77,6 +78,18 @@ div#footer {
   color: white;
   }
   
+#calender ul li:nth-child(1) {
+  list-style-type: disc;
+  }
+  
+#calender ul li:nth-child(2) {
+  list-style-type: disc;
+  font-weight: bold;
+  }
+  
+#calender ul {
+  list-style-type: circle;
+  }
   
 
 </style>
