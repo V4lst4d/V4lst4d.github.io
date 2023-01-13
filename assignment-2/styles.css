@@ -1,0 +1,19 @@
+/* write CSS here */
+
+#header {
+  background-color: royalblue;
+  color: white;
+  padding: 5px;
+  margin-bottom: 0px;
+  text-shadow: #333;
+  border-outset: 5px
+  border-color: lightblue
+  
+  
+  
+#header h2{
+  font-family: Garamond, serif;
+  font-style: italic;
+  font-size: 1.2em;
+  margin-top: 0px;
+  }
