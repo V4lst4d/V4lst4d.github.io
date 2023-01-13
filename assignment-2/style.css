@@ -9,7 +9,7 @@
   border-outset: 5px
   border-color: lightblue
   
-#header h2 {
+h2.#header {
   font-family: Garamond, serif;
   font-style: italic;
   font-size: 1.2em;
