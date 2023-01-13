@@ -1,19 +1,17 @@
 /* write CSS here */
 <style>
+
 body {
   padding: 0px;
   text-size: 10px;
   text-align: left;
-  font-family: Verdana, sans-serif
+  font-family: Verdana, sans-serif;
   }
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 h2, h3 {
-  font-family: "Open Sans", sans-serif
+  font-family: "Open Sans", sans-serif;
   }
-  
-  
-
 
 #header {
   background-color: royalblue;
@@ -21,8 +19,8 @@ h2, h3 {
   padding: 0px;
   margin-bottom: 0px;
   text-shadow: #333;
-  border-outset: 5px
-  border-color: lightblue
+  border-outset: 5px;
+  border-color: lightblue;
   }
   
 h2.#header {
