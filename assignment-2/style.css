@@ -73,24 +73,34 @@ span.rank {
   color: white;
   }
   
-div#footer {
+div#calender {
   background-color: black;
   color: white;
   }
   
-#calender ul li:nth-child(1) {
+div#calender ul li:nth-child(1) {
   list-style-type: disc;
   }
   
-#calender ul li:nth-child(2) {
+div#calender ul li:nth-child(2) {
   list-style-type: disc;
   font-weight: bold;
   }
   
-#calender ul {
+div#calender ul {
   list-style-type: circle;
+  }
+  
+a.#calender {
   color: white;
   }
+  
+div#footer p {
+  text-align: center;
+  color: yellow;
+  font-style: oblique;
+  }
+
   
 
 </style>
