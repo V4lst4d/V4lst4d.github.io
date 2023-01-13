@@ -1,4 +1,5 @@
 /* write CSS here */
+
 <style>
 
 html, body {
@@ -26,7 +27,6 @@ color: black;
 a {
 color: blue;
 text-decoration: none;
-cursor: 
 }
 
 a: hover {
@@ -89,6 +89,7 @@ div#footer {
   
 #calender ul {
   list-style-type: circle;
+  color: white;
   }
   
 
