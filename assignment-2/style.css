@@ -17,7 +17,7 @@ h2, h3 {
   font-family: "Open Sans", sans-serif;
   }
 
-#header > div {
+div#header {
   background-color: royalblue;
   color: white;
   padding: 0px;
@@ -28,11 +28,11 @@ h2, h3 {
   margin-bottom: 0 px;
   }
 
-#header h1 {
+div#header h1 {
   margin-block-end: 0px;
   }
 
-#header h2 {
+div#header h2 {
   font-family: Garamond, serif;
   font-style: italic;
   font-size: 1.2em;
