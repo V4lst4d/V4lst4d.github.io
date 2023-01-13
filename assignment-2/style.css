@@ -2,12 +2,11 @@
 <style>
 
 body {
-  padding: 0px;
   font-family: Verdana, sans-serif;
   }
  
 p {
-  text-size: 10px;
+  font-size: 10px;
   text-align: left;
   }
 
@@ -26,13 +25,11 @@ h2, h3 {
   border-color: lightblue;
   }
   
-#header h2{
+#header h2 {
   font-family: Garamond, serif;
   font-style: italic;
   font-size: 1.2em;
   margin-top: 0px;
   }
-
-
 
 </style>
