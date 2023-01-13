@@ -6,7 +6,7 @@ html, body {
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 0px;
-  padding: 0px;
+  padding: 10px;
   text-align: left;  
   }
  
@@ -27,6 +27,10 @@ color: blue;
 text-decoration: none;
 cursor: 
 }
+
+a: hover {
+  text_decoration: underline;
+  }
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 h2, h3 {
@@ -67,6 +71,12 @@ span.rank {
   background-color: black;
   color: white;
   }
+  
+div#footer {
+  background-color: black;
+  color: white;
+  }
+  
   
 
 </style>
