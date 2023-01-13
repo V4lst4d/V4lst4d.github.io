@@ -13,7 +13,14 @@ html, body {
 p {
   text-align: justified;
   text-indent: 2em;
+  color: #999999
  }
+
+p::first-line {
+color: black;
+}
+ 
+
  
 a {
 color: blue;
