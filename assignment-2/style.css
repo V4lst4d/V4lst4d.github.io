@@ -29,10 +29,6 @@ text-decoration: none;
     text_decoration: underline;
   }
 
-#content a: hover, #footer a: hover {
-  text_decoration: underline;
-  }
-
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 h2, h3 {
   font-family: "Open Sans", sans-serif;
