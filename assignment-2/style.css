@@ -10,7 +10,7 @@
   text-align: left; 
   }
 
-#content p, #footer p {
+#content p {
   text-align: justify;
   text-indent: 2em;
   color: #999999;
@@ -24,6 +24,10 @@
 color: blue;
 text-decoration: none;
 }
+
+a:hover {
+    text_decoration: underline;
+  }
 
 #content a: hover, #footer a: hover {
   text_decoration: underline;
