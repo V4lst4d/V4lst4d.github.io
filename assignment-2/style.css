@@ -25,7 +25,7 @@ color: blue;
 text-decoration: none;
 }
 
-#content a:hover, #footer a:hover {
+a:hover, #footer a:hover {
     text_decoration: underline;
   }
 
