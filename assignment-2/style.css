@@ -24,7 +24,7 @@ color: blue;
 text-decoration: none;
 }
 
-* a: hover {
+a: hover {
   text_decoration: underline;
   }
 
