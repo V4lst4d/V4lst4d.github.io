@@ -90,7 +90,7 @@ div#calender ul li:nth-child(2) {
   font-weight: bold;
   }
   
-div#calender a {
+div#calender a: -webkit-any-link {
   color: white;
   text-decoration: none;
   }
