@@ -37,7 +37,7 @@ h2, h3 {
   font-family: "Open Sans", sans-serif;
   }
 
-div#header {
+#header {
   background-color: royalblue;
   color: white;
   padding: 10px;
@@ -47,18 +47,18 @@ div#header {
   border-width: 5px;
   }
 
-div#header h1 {
+#header h1 {
   margin-block-end: 0px;
   }
 
-div#header h2 {
+#header h2 {
   font-family: Garamond, serif;
   font-style: italic;
   font-size: 1.2em;
   margin-top: 0px;
   }
   
-div#content h2 {
+#content h2 {
   border-bottom: 1px;
   border-color: #999999;
   border-style: solid;
@@ -72,34 +72,34 @@ span.rank {
   color: white;
   }
   
-div#footer {
+#footer {
   background-color: black;
   color: white;
   }
   
-div#footer ul {
+#footer ul {
   list-style-type: circle;
   }
   
-div#calender ul li:nth-child(1) {
+#calender ul li:nth-child(1) {
   list-style-type: disc;
   }
   
-div#calender ul li:nth-child(2) {
+#calender ul li:nth-child(2) {
   list-style-type: disc;
   font-weight: bold;
   }
   
-div#calender a {
+#calender a {
  color: white;
  text-decoration: none;
   }
 
-div#calender a: hover {
+#calender a: hover {
   text_decoration: underline;
   }
 
-div#footer p {
+#footer p {
   text-align: center;
   color: yellow;
   font-style: oblique;
