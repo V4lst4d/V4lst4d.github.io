@@ -5,7 +5,8 @@
 body {
   font-family: Verdana, sans-serif;
   margin: 0px;
-  padding: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
   text-align: left; 
   }
 
@@ -88,9 +89,9 @@ span.rank {
   }
   
 #footer a {
- color: white;
- text-decoration: none;
-  }
+color: white;
+text-decoration: none;
+}
 
 #footer p {
   text-align: center;
