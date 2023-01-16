@@ -22,8 +22,6 @@ html, body {
 color: black;
 }
  
-
- 
 #content a {
 color: blue;
 text-decoration: none;
@@ -93,6 +91,7 @@ div#calender ul li:nth-child(2) {
   
 div#calender a {
   color: white;
+  text-decoration: none;
   }
   
 div#footer p {
