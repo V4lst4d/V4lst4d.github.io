@@ -25,7 +25,7 @@ color: blue;
 text-decoration: none;
 }
 
-#content a:hover {
+#content a:hover, #footer a:hover {
     text_decoration: underline;
   }
 
@@ -92,7 +92,7 @@ span.rank {
   font-weight: bold;
   }
   
-#footer a {
+#footer a:link, #footer a:visited {
 color: white;
 text-decoration: none;
 }
