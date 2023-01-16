@@ -25,7 +25,7 @@ color: blue;
 text-decoration: none;
 }
 
-a:hover, #footer a:hover {
+#content .place a:hover, #footer .calendar a:hover {
     text_decoration: underline;
   }
 
