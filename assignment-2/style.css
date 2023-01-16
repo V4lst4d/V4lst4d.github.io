@@ -90,9 +90,9 @@ div#calender ul li:nth-child(2) {
   font-weight: bold;
   }
   
-div#calender a: -webkit-any-link {
-  color: white;
-  text-decoration: none;
+div#calender a: -webkit-autofill {
+  -webkit-text-color: white;
+  -webkit-text-decoration: none;
   }
 
 div#footer a: hover {
@@ -103,8 +103,6 @@ div#footer p {
   text-align: center;
   color: yellow;
   font-style: oblique;
-  }
-
-  
+  } 
 
 </style>
