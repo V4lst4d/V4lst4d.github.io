@@ -2,7 +2,7 @@
 
 <style>
 
-#content body {
+body {
   font-family: Verdana, sans-serif;
   position: absolute;
   margin-left: 0px;
@@ -12,29 +12,7 @@
   padding-right: 10px;
   text-align: left;  
   }
-  
-#header body {
-  font-family: Verdana, sans-serif;
-  position: absolute;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-top: 0px;
-  padding-left: 10px;
-  padding-right: 10px;
-  text-align: left;  
-  }
-  
-#footer body {
-  font-family: Verdana, sans-serif;
-  position: absolute;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-top: 0px;
-  padding-left: 10px;
-  padding-right: 10px;
-  text-align: left;  
-  }
- 
+
 #content p {
   text-align: justified;
   text-indent: 2em;
@@ -50,7 +28,7 @@ color: blue;
 text-decoration: none;
 }
 
-#content a:: hover {
+#content a: hover {
   text_decoration: underline;
   }
 
@@ -99,7 +77,7 @@ div#footer {
   color: white;
   }
   
-div#calender ul li {
+div#footer ul {
   list-style-type: circle;
   }
   
@@ -112,12 +90,12 @@ div#calender ul li:nth-child(2) {
   font-weight: bold;
   }
   
-div#calender a: -webkit-autofill {
-  -webkit-text-color: white;
-  -webkit-text-decoration: none;
+div#calender a {
+ color: white;
+ text-decoration: none;
   }
 
-div#footer a: hover {
+div#calender a: hover {
   text_decoration: underline;
   }
 
