@@ -2,7 +2,7 @@
 
 <style>
 
-body {
+body -webkit-autofill {
   font-family: Verdana, sans-serif;
   position: absolute;
   margin-left: 0px;
