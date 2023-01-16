@@ -19,7 +19,7 @@ html, body {
  }
 
 #content p::first-line {
-color: black;
+  color: black;
 }
  
 #content a {
@@ -27,7 +27,7 @@ color: blue;
 text-decoration: none;
 }
 
-a: hover {
+#content a: hover {
   text_decoration: underline;
   }
 
@@ -93,7 +93,11 @@ div#calender a {
   color: white;
   text-decoration: none;
   }
-  
+
+div#footer a: hover {
+  text_decoration: underline;
+  }
+
 div#footer p {
   text-align: center;
   color: yellow;
