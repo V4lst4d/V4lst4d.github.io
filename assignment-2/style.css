@@ -2,13 +2,14 @@
 
 <style>
 
-body.style {
+body {
   font-family: Verdana, sans-serif;
   position: absolute;
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 0px;
-  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
   text-align: left;  
   }
  
@@ -44,7 +45,6 @@ div#header {
   border-style: outset;
   border-color: lightblue;
   border-width: 5px;
-  margin: 0px;
   }
 
 div#header h1 {
