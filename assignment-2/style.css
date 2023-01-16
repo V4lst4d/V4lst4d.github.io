@@ -2,7 +2,7 @@
 
 <style>
 
-* {
+div {
   font-family: Verdana, sans-serif;
   margin: 0px;
   padding-left: 10px;
@@ -25,7 +25,7 @@ color: blue;
 text-decoration: none;
 }
 
-a: link: hover {
+a: hover {
     text_decoration: underline;
   }
 
