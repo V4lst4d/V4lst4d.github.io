@@ -20,7 +20,7 @@
   color: black;
 }
  
-#content a {
+#content a:link, #content a:visited {
 color: blue;
 text-decoration: none;
 }
