@@ -2,7 +2,29 @@
 
 <style>
 
-body -webkit-autofill {
+#content body {
+  font-family: Verdana, sans-serif;
+  position: absolute;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: left;  
+  }
+  
+#header body {
+  font-family: Verdana, sans-serif;
+  position: absolute;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: left;  
+  }
+  
+#footer body {
   font-family: Verdana, sans-serif;
   position: absolute;
   margin-left: 0px;
