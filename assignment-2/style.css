@@ -81,11 +81,11 @@ div#calender ul {
   list-style-type: circle;
   }
   
-div#calender ul li:nth-child(1) {
+div#calender li:nth-child(1) {
   list-style-type: disc;
   }
   
-div#calender ul li:nth-child(2) {
+div#calender li:nth-child(2) {
   list-style-type: disc;
   font-weight: bold;
   }
