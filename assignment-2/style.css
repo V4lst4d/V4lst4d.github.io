@@ -39,11 +39,12 @@ h2, h3 {
 div#header {
   background-color: royalblue;
   color: white;
-  padding: 0px;
+  padding: 10px;
   text-shadow: #333 0px 0px 10px;
   border-style: outset;
   border-color: lightblue;
   border-width: 5px;
+  margin: 0px;
   }
 
 div#header h1 {
