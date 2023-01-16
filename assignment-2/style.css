@@ -4,13 +4,13 @@
 
 * {
   font-family: Verdana, sans-serif;
-  position: absolute;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-top: 0px;
+  margin: 0px;
+  text-align: left; 
+  }
+
+body {
   padding-left: 10px;
   padding-right: 10px;
-  text-align: left;  
   }
 
 #content p {
@@ -28,7 +28,7 @@ color: blue;
 text-decoration: none;
 }
 
-#content a: hover {
+* a: hover {
   text_decoration: underline;
   }
 
@@ -93,10 +93,6 @@ span.rank {
 #calender a {
  color: white;
  text-decoration: none;
-  }
-
-#calender a: hover {
-  text_decoration: underline;
   }
 
 #footer p {
