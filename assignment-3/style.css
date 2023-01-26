@@ -9,7 +9,7 @@
 }
 
 @import url(https://fonts.google.com/specimen/Montserrat);
-h {
+h1, h2, h3, h4, h5, h6 {
   font-family:"Montserrat", sans-serif;
 }
 
@@ -20,7 +20,7 @@ h {
   position: absolute;
 }
   
-.logo header {
+.logo {
   background-color: #e4c916;
   height: 40px;
   display: flex;
@@ -32,16 +32,16 @@ h {
   float: right;
   text-align: right;
   padding: 5px;
-  
+  }
 
-main.framed {
+.content {
   margin-top: 100px;
   width: 90%;
   max-width: 1400px;
   align: center;
 }
 
-aside.cart {
+.cart aside{
   width: 300px;
   align: right;
   backgroud-color: red;
