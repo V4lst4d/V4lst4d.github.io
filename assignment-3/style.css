@@ -1,1 +1,68 @@
+<style>
 
+@import url(https://fonts.google.com/specimen/Raleway);
+.logo, .framed, .cart, .foot {
+  margin: 0px;
+  background-color: white;
+  font-family: "Raleway", Sans-serif;
+  font-size: 1em;    
+}
+
+@import url(https://fonts.google.com/specimen/Montserrat);
+h {
+  font-family:"Montserrat", sans-serif;
+}
+
+.logo h1 {
+  height: 60px;
+  text-align: left;
+  margin: 5%;
+  position: absolute;
+}
+  
+.logo header {
+  background-color: #e4c916;
+  height: 40px;
+  display: flex;
+  align: right;
+  margin: 5%;
+}
+
+main.framed {
+  margin-top: 100px;
+  width: 90%;
+  max-width: 1400px;
+  align: center;
+}
+
+aside.cart {
+  width: 300px;
+  align: right;
+  backgroud-color: red;
+}
+
+.framed h1 {
+  background-color: green;
+  font-size: 1.2em;
+  padding: 5px;
+  }
+  
+.framed {
+  border-style: solid;
+  border-size: 1px;
+  padding: 5px;
+  font-size: 0.8em;
+  }
+
+footer.foot {
+  height: 120px;
+  border-top: 5px;
+  border: solid;
+  text-align: center
+  }
+  
+  
+  
+
+
+</style>
