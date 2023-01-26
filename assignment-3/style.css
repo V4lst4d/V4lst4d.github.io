@@ -28,6 +28,12 @@ h {
   margin: 5%;
 }
 
+.navbar a {
+  float: right;
+  text-align: right;
+  padding: 5px;
+  
+
 main.framed {
   margin-top: 100px;
   width: 90%;
@@ -54,7 +60,7 @@ aside.cart {
   font-size: 0.8em;
   }
 
-footer.foot {
+.foot footer{
   height: 120px;
   border-top: 5px;
   border: solid;
