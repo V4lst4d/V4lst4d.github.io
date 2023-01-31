@@ -72,7 +72,8 @@ h1, h2, h3, h4, h5, h6 {
   border-right: 0px;
   border-left: 0px;
   border-bottom: 0px;
-  text-align: center
+  text-align: center;
+  background-color: blue;
   }
   
   
