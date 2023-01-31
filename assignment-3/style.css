@@ -47,6 +47,10 @@ h1, h2, h3, h4, h5, h6 {
   backgroud-color: red;
 }
 
+.cart table {
+  width: 300px;
+}
+
 .framed h1 {
   background-color: green;
   font-size: 1.2em;
