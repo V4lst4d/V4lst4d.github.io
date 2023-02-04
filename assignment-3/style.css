@@ -20,6 +20,7 @@ h1, h2, h3, h4, h5, h6 {
   position: absolute;
   background-color: green;
   display: flex;
+  line-height: 60px;
 }
   
 .logo {
@@ -28,6 +29,10 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0px;
   align-items: center;
   position: fixed;
+  line-height: 40px;
+  left: 0px;
+  right: 0px;
+  top: 0px;
 }
 
 .navbar {
@@ -63,6 +68,7 @@ h1, h2, h3, h4, h5, h6 {
 .framed {
   border-style: solid;
   border-size: 1px;
+  flex-grow: 1;
   padding: 5px;
   font-size: 0.8em;
   }
@@ -76,8 +82,11 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 0px;
   align-items: center;
   text-align: center;
-  background-color: blue;
+  background-color: pink;
   position: fixed;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
   }
   
   
