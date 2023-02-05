@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family:"Montserrat", sans-serif;
 }
 
-h1.logo {
+.logo h1 {
   height: 60px;
   text-align: left;
   left: 5%;
@@ -45,7 +45,7 @@ li {
   position: fixed;
   top: 0px;
   right: 5px;
-  line-height: 1px;
+  line-height: 0px;
   }
 
 .content {
