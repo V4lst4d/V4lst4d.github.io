@@ -18,7 +18,7 @@ h1.logo {
   text-align: left;
   left: 5%;
   position: absolute;
-  background-color: green;
+  background-color: #B87A3D;
   display: flex;
   line-height: 60px;
 }
@@ -28,7 +28,7 @@ li {
 }
 
 .logo {
-  background-color: #e4c916;
+  background-color: #FFD1A4;
   height: 40px;
   margin: 0px;
   align-items: center;
@@ -59,7 +59,7 @@ li {
 .cart {
   width: 300px;
   float: right;
-  backgroud-color: red;
+  backgroud-color: #DEA369;
 }
 
 .cart table {
@@ -67,7 +67,7 @@ li {
 }
 
 .framed h1 {
-  background-color: green;
+  background-color: #975A1E;
   font-size: 1.2em;
   padding: 5px;
   }
@@ -90,7 +90,7 @@ li {
   border-bottom: 0px;
   align-items: center;
   text-align: center;
-  background-color: pink;
+  background-color: #6B3703;
   position: fixed;
   left: 0px;
   right: 0px;
