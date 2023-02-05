@@ -42,7 +42,10 @@ li {
 .navbar {
   float: right;
   text-align: right;
-  margin-right: 5px;
+  position: fixed;
+  top: 0px;
+  right: 5px;
+  line-height: 1px;
   }
 
 .content {
