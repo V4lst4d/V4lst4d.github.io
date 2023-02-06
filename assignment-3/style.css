@@ -21,6 +21,8 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #B87A3D;
   display: flex;
   line-height: 60px;
+  z-index: 3;
+  margin: 0px;
 }
  
 li {
@@ -46,6 +48,8 @@ li {
   top: 0px;
   right: 5px;
   line-height: 0px;
+  display: inline-block;
+  
   }
 
 .content {
